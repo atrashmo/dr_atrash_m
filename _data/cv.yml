@@ -2,28 +2,32 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Atrash Mohsin
     - name: Languages
-      value: English, German
+      value: English (C2), Spanish (C1), German (B2), Malay (C2), Portuguese (A2), French (A1)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Aeronautical Engineering
+      institution: Imperial College London, London, UK
+      year: 2018
       description:
-        - Description 1.
+        - Thesis: Manufacturing, testing, modelling and failure analysis of composites for automotive and aerospace applications
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MSc in Mechanical Engineering
+      institution: University College London (UCL), London, UK
+      year: 2014
+      description:
+        - Description 1.
+        - Description 2.
+    - title: BEng (1st Class Hons) in Mechanical Engineering
+      institution: University of Nottingham, Nottingham, UK
+      year: 2013
       description:
         - Description 1.
         - Description 2.
