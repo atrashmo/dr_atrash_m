@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://atrashmo.github.io/dr_atrash_m//sitemap.xml
+Sitemap: https://atrashmo.github.io//dr_atrash_m/sitemap.xml
