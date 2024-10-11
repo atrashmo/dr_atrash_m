@@ -13,26 +13,22 @@
       institution: Imperial College London
       location: London, UK
       year: 2018
-      description:
-        - Thesis: Manufacturing, testing, modelling and failure analysis of composites for automotive and aerospace applications
+      thesis: Manufacturing, testing, modelling and failure analysis of composites for automotive and aerospace applications
     - title: MSc in Mechanical Engineering
       institution: University College London (UCL)
       location: London, UK
       year: 2014
-      description:
-        - Thesis: Computational fluid dynamics (CFD) of Aerodynamics of F1 cars
+      Thesis: Computational fluid dynamics (CFD) of Aerodynamics of F1 cars
     - title: BEng (1st Class Hons) in Mechanical Engineering
       institution: University of Nottingham
       location: Nottingham, UK
       year: 2013
-      description:
-        - Thesis: Mathematical modelling of bridge dynamics—a study of nonlinear response of pedestrian-induced lateral vibrations of the Millenium bridge, London
+      Thesis: Mathematical modelling of bridge dynamics—a study of nonlinear response of pedestrian-induced lateral vibrations of the Millenium bridge, London
     - title: BEng in Mechanical Engineering
       institution: University of Melbourne
       location: Melbourne, Australia
       year: 2010
-      description:
-        - Score: 80% average
+      grade: 80%
 
 - title: Experience
   type: time_table
