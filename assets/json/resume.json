@@ -264,20 +264,30 @@
       "icon": ""
     },
     {
-      "language": "Arabic",
-      "fluency": "C2",
-      "icon": ""
-    },
-    {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "C1",
       "icon": ""
     },
     {
-      "language": "French",
+      "language": "German",
       "fluency": "B2",
       "icon": ""
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "A2",
+      "icon": ""
     }
+    {
+      "language": "French",
+      "fluency": "A1",
+      "icon": ""
+    }
+    {
+      "language": "Malay",
+      "fluency": "B2",
+      "icon": ""
+    }    
   ],
   "interests": [
     {
