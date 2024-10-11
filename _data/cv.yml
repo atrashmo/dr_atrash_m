@@ -14,97 +14,103 @@
       year: 2018
       description:
         - Thesis: Manufacturing, testing, modelling and failure analysis of composites for automotive and aerospace applications
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: MSc in Mechanical Engineering
       institution: University College London (UCL), London, UK
       year: 2014
       description:
-        - Thesis: CFD of Aerodynamics of F1 cars
-        - Description 2.
+        - Thesis: Computational fluid dynamics (CFD) of Aerodynamics of F1 cars
     - title: BEng (1st Class Hons) in Mechanical Engineering
       institution: University of Nottingham, Nottingham, UK
       year: 2013
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis: Mathematical modelling of bridge dynamics—a study of nonlinear response of pedestrian-induced lateral vibrations of the Millenium bridge, London
+    - title: BEng in Mechanical Engineering
+      institution: University of Melbourne, Melbourne, Australia
+      year: 2010
+      description:
+        - Score: 80% average
 
 - title: Experience
   type: time_table
   contents:
     - title: Senior Structural Engineer ¦ Project Manager
-      institution: Sauber Motorsport ¦ Stake F1 Team, Hinwil, Zurich, Switzerland
+      institution: Sauber Motorsport AG, Hinwil, Zurich, Switzerland
       year: 2023 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Principal Scientist ¦ Lead Developement Engineer
-      institution: Eidgenössische Materialprüfungs- und Forschungsanstalt (Empa) ¦ Carbo-Link AG, Duebendorf, Switzerland
+        - Led the design and optimisation of F1 car components, focusing on structural integrity, weight, and performance compliance.
+        - Managed cross-functional projects, overseeing timelines, budgets, and team resources.
+        - Integrated structural components with aerodynamic elements, ensuring compliance with industry regulations.
+    - title: Principal Scientist ¦ Lead Development Engineer
+      institution: Eidgenössische Materialprüfungs- und Forschungsanstalt (Empa) ¦ Carbo-Link AG, Dübendorf, Switzerland
       year: 2021 - 2023
       description:
-        - Description 1.
-        - Description 2.
-
+        - Spearheaded the development of thermoplastics and composite anchorage systems.
+        - Led R&D teams in designing and testing novel composite materials.
     - title: Senior Scientist
       institution: Schlumberger, Cambridge, UK
       year: 2019 - 2021
-
-    - title: Research Engineer ¦ Research Fellow
+      description:
+        - Developed dynamic FEA models for drilling applications.
+        - Filed patents on novel engineering solutions, particularly in material applications.
+    - title: Research Engineer
       institution: TechnipFMC ¦ University of Aberdeen, Aberdeen, UK
       year: 2018 - 2019
       description:
-
-    - title: Research Assistant ¦ Doctoral Researcher
+        - Designed subsea load-bearing connectors for deep-sea industry.
+        - Managed testing protocols including thermal and cyclic testing.
+    - title: Doctoral Researcher / Graduate Teaching Assistant
       institution: Imperial College London, London, UK
       year: 2014 - 2018
-
+      description:
+        - Developed innovative experimental and numerical models for composite materials in automotive and aerospace industries.
     - title: Research Fellow
       institution: Purdue University, West Lafayette, IN, USA
       year: 2016
-
+      description:
+        - Designed high-velocity impact tests for thermoplastic composites in aerospace and defense.
     - title: Research Assistant
       institution: Korean Advanced Institute of Science & Technology (KAIST), Daejeon, South Korea
       year: 2015
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description:
+        - Characterised the mechanical behaviour of polymer nanocomposites for automotive applications.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Performed by SLB Bronze Award for innovative work on a novel predictive tool for drillbit performance
+    - year: 2018
       items:
-        - Max Planck Medal
+        - Full PhD Scholarship from Imperial College London
+    - year: 2014
+      items:
+        - Full MSc Scholarship from University College London (UCL)
+    - year: 2013
+      items:
+        - Dean’s Excellence Scholarship from University of Nottingham
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Multidisciplinary Engineering
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Design, manufacturing, testing, and analysis of devices, materials, and structures
+    - title: Programming & Data Analysis
       items:
-        - Description 1.
-        - Description 2.
+        - MATLAB, Python, Fortran
+    - title: FEA (Finite Element Analysis)
+      items:
+        - LS-Dyna, Abaqus, HyperMesh, Optistruct, ANSYS
+    - title: CAD (Computer-Aided Design)
+      items:
+        - SolidWorks, Creo, Inventor, AutoCAD, CATIA
+    - title: CFD (Computational Fluid Dynamics)
+      items:
+        - Star-CCM+
 
 - title: Other Interests
   type: list
   contents:
     - <u>General:</u> Automotive, horology, consumer technology
-    - <u>Sports:</u> Tennis, football, basketball
+    - <u>Sports:</u> Tennis, football
