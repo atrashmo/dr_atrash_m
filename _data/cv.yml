@@ -10,22 +10,26 @@
   type: time_table
   contents:
     - title: PhD in Aeronautical Engineering
-      institution: Imperial College London, London, UK
+      institution: Imperial College London
+      location: London, UK
       year: 2018
       description:
         - Thesis: Manufacturing, testing, modelling and failure analysis of composites for automotive and aerospace applications
     - title: MSc in Mechanical Engineering
-      institution: University College London (UCL), London, UK
+      institution: University College London (UCL)
+      location: London, UK
       year: 2014
       description:
         - Thesis: Computational fluid dynamics (CFD) of Aerodynamics of F1 cars
     - title: BEng (1st Class Hons) in Mechanical Engineering
-      institution: University of Nottingham, Nottingham, UK
+      institution: University of Nottingham
+      location: Nottingham, UK
       year: 2013
       description:
         - Thesis: Mathematical modelling of bridge dynamics—a study of nonlinear response of pedestrian-induced lateral vibrations of the Millenium bridge, London
     - title: BEng in Mechanical Engineering
-      institution: University of Melbourne, Melbourne, Australia
+      institution: University of Melbourne
+      location: Melbourne, Australia
       year: 2010
       description:
         - Score: 80% average
@@ -34,42 +38,49 @@
   type: time_table
   contents:
     - title: Senior Structural Engineer ¦ Project Manager
-      institution: Sauber Motorsport AG, Hinwil, Zurich, Switzerland
+      institution: Sauber Motorsport AG
+      location: Hinwil, Zürich, Switzerland
       year: 2023 - present
       description:
         - Led the design and optimisation of F1 car components, focusing on structural integrity, weight, and performance compliance.
         - Managed cross-functional projects, overseeing timelines, budgets, and team resources.
         - Integrated structural components with aerodynamic elements, ensuring compliance with industry regulations.
     - title: Principal Scientist ¦ Lead Development Engineer
-      institution: Eidgenössische Materialprüfungs- und Forschungsanstalt (Empa) ¦ Carbo-Link AG, Dübendorf, Switzerland
+      institution: Eidgenössische Materialprüfungs- und Forschungsanstalt (Empa) ¦ Carbo-Link AG
+      location: Dübendorf, Zürich, Switzerland
       year: 2021 - 2023
       description:
         - Spearheaded the development of thermoplastics and composite anchorage systems.
         - Led R&D teams in designing and testing novel composite materials.
     - title: Senior Scientist
-      institution: Schlumberger, Cambridge, UK
+      institution: Schlumberger
+      location: Cambridge, UK
       year: 2019 - 2021
       description:
         - Developed dynamic FEA models for drilling applications.
         - Filed patents on novel engineering solutions, particularly in material applications.
     - title: Research Engineer
-      institution: TechnipFMC ¦ University of Aberdeen, Aberdeen, UK
+      institution: TechnipFMC ¦ University of Aberdeen
+      location: Aberdeen, UK
       year: 2018 - 2019
       description:
         - Designed subsea load-bearing connectors for deep-sea industry.
         - Managed testing protocols including thermal and cyclic testing.
     - title: Doctoral Researcher / Graduate Teaching Assistant
-      institution: Imperial College London, London, UK
+      institution: Imperial College London
+      location: London, UK
       year: 2014 - 2018
       description:
         - Developed innovative experimental and numerical models for composite materials in automotive and aerospace industries.
     - title: Research Fellow
-      institution: Purdue University, West Lafayette, IN, USA
+      institution: Purdue University
+      location: West Lafayette, IN, USA
       year: 2016
       description:
         - Designed high-velocity impact tests for thermoplastic composites in aerospace and defense.
     - title: Research Assistant
-      institution: Korean Advanced Institute of Science & Technology (KAIST), Daejeon, South Korea
+      institution: Korean Advanced Institute of Science & Technology (KAIST)
+      location: Daejeon, South Korea
       year: 2015
       description:
         - Characterised the mechanical behaviour of polymer nanocomposites for automotive applications.
