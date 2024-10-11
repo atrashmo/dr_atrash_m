@@ -1,35 +1,34 @@
-Delamination of Novel Carbon Fibre-Based Non-Crimp Fabric-Reinforced Thermoplastic Composites in Mode I: Experimental and Fractographic Analysis
-MAA Mohsin, L Iannucci, ES Greenhalgh
-Polymers 15 (7), 1611
+"adams":
+  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
+    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-Experimental and numerical analysis of low-velocity impact of carbon fibre-based non-crimp fabric reinforced thermoplastic composites
-MAA Mohsin, L Iannucci, ES Greenhalgh
-Polymers 13 (21), 3642
+"podolsky":
+  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+    url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-On the dynamic tensile behaviour of thermoplastic composite carbon/polyamide 6.6 using split hopkinson pressure bar
-MAA Mohsin, L Iannucci, ES Greenhalgh
-Materials 14 (7), 1653
+"rosen":
+  - firstname: ["Nathan", "N."]
+    url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-Manufacturing, testing, modelling and fractography of thermoplastic composites for the automotive industry
-M Mohsin
-Imperial College London
+"bach":
+  - firstname: ["Johann Sebastian", "J. S."]
+    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
-Fibre-volume-fraction measurement of carbon fibre reinforced thermoplastic composites using thermogravimetric analysis
-MAA Mohsin, L Iannucci, ES Greenhalgh
-Heliyon 5 (1)
+  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
+    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-NUMERICAL AND EXPERIMENTAL ANALYSIS OF HIGH-VELOCITY IMPACT BEHAVIOUR OF CARBON FIBRE REIN-FORCED THERMOPLASTIC COMPOSITES
-MAA Mohsin, L Iannucci, E Greenhalgh
-ECCM18 - 18th European Conference on Composite Materials, Athens, Greece
+"przibram":
+  - firstname: ["Karl"]
+    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-LOW-VELOCITY IMPACT PERFORMANCE OF CARBON FIBRE REINFORCED THERMOPLASTIC COMPOSITES FOR AUTOMOTIVE APPLICATIONS
-MAA Mohsin, L Iannucci, ES Greenhalgh
-21st International Conference on Composite Materials, Xi'an, China
+"schrodinger":
+  - firstname: ["Erwin"]
+    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
-Mode I Interlaminar Fracture Toughness Characterisation of Carbon Fibre Reinforced Thermoplastic Composites
-M Mohsin, L Iannucci, E Greenhalgh
-American Society for Composites, 32nd Technical Conference, West Lafayette, IN, USA
+"lorentz":
+  - firstname: ["Hendrik Antoon"]
+    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
 
-Translaminar Fracture Toughness Characterisation of Carbon Fibre Reinforced Thermoplastic Composites
-M Mohsin, L Iannucci, E Greenhalgh
-Proceedings of the ECCM-17th European Conference on Composite Materials, Munich, Germany
+"planck":
+  - firstname: ["Max"]
+    url: https://en.wikipedia.org/wiki/Max_Planck
