@@ -20,7 +20,7 @@
     {
       "name": "Sauber Motorsport AG",
       "position": "Senior Structural Engineer ¦ Project Manager",
-      "location": "Hinwil, Switzerland",
+      "location": "Hinwil, Zürich, Switzerland",
       "url": "",
       "startDate": "2023-09-01",
       "endDate": "",
@@ -34,7 +34,7 @@
     {
       "name": "Empa (with Carbo-Link AG)",
       "position": "Principal Scientist ¦ Lead Development Engineer",
-      "location": "Dübendorf, Switzerland",
+      "location": "Dübendorf, Zürich, Switzerland",
       "url": "",
       "startDate": "2021-08-01",
       "endDate": "2023-08-01",
@@ -48,10 +48,10 @@
     {
       "name": "Schlumberger",
       "position": "Senior Scientist",
-      "location": "Clamart, France",
+      "location": "Cambridge, United Kingdom",
       "url": "",
       "startDate": "2019-11-01",
-      "endDate": "2021-08-01",
+      "endDate": "2021-07-31",
       "summary": "Developed dynamic FEA models and contributed to intellectual property by filing patents, enhancing energy-efficient processes for drilling applications.",
       "highlights": [
         "Developed dynamic FEA models for drilling applications.",
@@ -185,11 +185,11 @@
   "certificates": [],
   "publications": [
     {
-      "name": "Nine scientific publications in world-leading journals",
+      "name": "Nine (9) scientific publications in world-leading journals",
       "publisher": "",
       "releaseDate": "",
       "url": "",
-      "summary": "Available upon request."
+      "summary": "List of publications is available upon request."
     }
   ],
   "skills": [
@@ -285,21 +285,25 @@
     }
     {
       "language": "Malay",
-      "fluency": "B2",
+      "fluency": "C2",
       "icon": ""
     }    
   ],
   "interests": [
     {
-      "name": "Marathon Running",
+      "name": "Tennis",
       "keywords": []
     },
     {
-      "name": "Climbing",
+      "name": "Football",
       "keywords": []
     },
     {
-      "name": "Rowing",
+      "name": "Automotive",
+      "keywords": []
+    }
+    {
+      "name": "Horology",
       "keywords": []
     }
   ]
